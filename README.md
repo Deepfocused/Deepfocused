@@ -11,7 +11,7 @@
 <h2 align="center"> 📞 Contact </h2>
 <p>
   <a href="mailto:rlawhdrhs27@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rlawhdrhs27@gmail.com-EA3245?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/kim-jonggon-37ba19120/" target="_blank"><img src="https://img.shields.io/badge/JONGGON-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://deepfocuser.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/MyPortfolio-00A98F?style=flat-square&logo=gofundme&logoColor=white"/></a> <a href="https://deepfocuser-resume.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/MyCareer-00A98F?style=flat-square&logo=gofundme&logoColor=white"/></a>
+  <a href="https://deepfocused.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/MyPortfolio-00A98F?style=flat-square&logo=gofundme&logoColor=white"/></a> <a href="https://deepfocused-resume.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/MyCareer-00A98F?style=flat-square&logo=gofundme&logoColor=white"/></a>
 </p>
 
 <h2 align="center"> :hammer: Skills </h2>
