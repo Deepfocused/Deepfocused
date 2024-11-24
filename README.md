@@ -45,7 +45,7 @@
 
 | 기간                      | 회사명 | 프로젝트     |
 |:------------------------|:---------|:--------|
-| 2023.11.20 -  | <a href="https://www.com2verse.com/" target="_blank"><img src="https://img.shields.io/badge/LG CNS-127EFF?style=for-the-badge&logoColor=white"/></a> | <p>1. Human Matting Algorithm 개발 및 적용</p><p>2. Face Landmark for Avatar Algorithm 개발 및 적용</p><p>3. Voice Activity Detection/ Voice Denoiser 개발 및 적용</p>|
+| 2023.11.20 -  | <a href="https://www.com2verse.com/" target="_blank"><img src="https://img.shields.io/badge/LG CNS-127EFF?style=for-the-badge&logoColor=white"/></a> | <p>1. LG Exaone 모델(v1, v2, v3, v3.5, ~) 추론 최적화 및 vLLM(custom, 오픈 소스 기여), sglang(custom, 오픈 소스 기여)에 적용 및 실제 서비스에 적용</p><p>2. LG LLaVA 모델 추론 최적화 및 vLLM에 적용 및 실제 서비스에 적용</p><p>3. Google Cloud Platform Controller API 서버 개발 및 사내 서비스에 적용</p>|
 | 2022.06.20 - 2023.10.14 | <a href="https://www.com2verse.com/" target="_blank"><img src="https://img.shields.io/badge/com2verse-527FFF?style=for-the-badge&logoColor=white"/></a> | <p>1. Human Matting Algorithm 개발 및 적용</p><p>2. Face Landmark for Avatar Algorithm 개발 및 적용</p><p>3. Voice Activity Detection/ Voice Denoiser 개발 및 적용</p>|
 | 2020.10.05 – 2022.06.17 | <a href="https://www.hyundai-autoever.com/kor/main/index.do" target="_blank"><img src="https://img.shields.io/badge/현대오토에버-white?style=for-the-badge&logo=Hyundai&logoColor=002C5F"/></a> | <p>1. 드론 영상 기반 지붕 검사 알고리즘 개발</p><p>2. 모바일 PDA 문자인식 시스템 개발 </p>|
 | 2019.04.01 - 2020.09.06 | <a href="https://alcherainc.com/" target="_blank"><img src="https://img.shields.io/badge/alchera-blue?style=for-the-badge&logoColor=002C5F"/></a>| <p>1. 행동 인식 딥러닝 알고리즘 개발</p><p>2. 실내외 화재 탐지 딥러닝 알고리즘 개발 </p>|
